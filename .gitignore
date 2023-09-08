@@ -1,0 +1,9 @@
+build/
+dist/
+
+*.log
+*.tmp 
+
+Config.json
+package.json
+myfile.json
